@@ -1,5 +1,5 @@
 ## 介绍
-springBoot2.X集成Redis集群，一致性Hash的实际使用。
+springBoot2.X集成Redis集群限流，一致性Hash的实际使用。
 
 ## 一致性Hash算法的使用场景
 
